@@ -1,0 +1,103 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+
+### Ignore untrack files ###
+        ../../.bash_history
+	../../.bash_logout
+	../../.bashrc
+	../../.cache/
+	../../.config/
+	../../.dotnet/
+	../../.eclipse/
+	../../.gitconfig
+	../../.gnupg/
+	../../.gradle/
+	../../.java/
+	../../.javacpp/
+	../../.lesshst
+	../../.local/
+	../../.m2/
+	../../.mysql/
+	../../.mysql_history
+	../../.npm/
+	../../.openjfx/
+	../../.p2/
+	../../.pki/
+	../../.profile
+	../../.profile.bak
+	../../.qupath.lib.gui.QuPathApp/
+	../../.ssh/
+	../../.sudo_as_admin_successful
+	../../.swt/
+	../../.thunderbird/
+	../../.vscode/
+	../../.wget-hsts
+	../../.~lock.THM requiredment.odt#
+	../../18may Ring Defect.zip
+	../../18may Ring Defect/
+	../../Desktop/
+	../../Documents/
+	../../Downloads/
+	../../EAadhaar.pdf
+	../../IdeaProjects/
+	../../Pictures/
+	../SpringBootCurd.zip
+	../../THM requirements.odt
+	../../UpdatedResume/
+	../../assignment/
+	../../coordinate.json
+	../../eclipse-workspace/
+	../../google-chrome-stable_current_amd64.deb
+	../../hand.json
+	../../hand.png
+	../../hand.zip
+	../../handJSON.zip
+	../../myenv/
+	../../mysql-apt-config_0.8.17-1_all.deb
+	../../node_web_project.zip
+	../../node_web_project/
+	../../opencv.js
+	../../opencv.py
+	../../package-lock.json
+	../../package.json
+	../../path_rad_vicky.zip
+	../../path_rad_vicky/
+	../../resume.docx
+	../../saudagar_block_3.zip
+	../../sickle_annotation.zip
+	../../sickle_annotation/
+	../../sickle_may06.zip
+	../../smt.tar
+	../../snap/
