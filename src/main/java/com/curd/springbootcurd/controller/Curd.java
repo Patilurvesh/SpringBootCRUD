@@ -13,7 +13,9 @@ public class Curd {
 
 
 
-
+public void merger(){
+    System.out.println("dev2 branch");
+}
 
 
 
